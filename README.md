@@ -1,4 +1,4 @@
-### Hola, I'm Nirmit Rath 👋<a href="https://github.com/nirmit363">@nirmit363</a><img align="right" src="https://komarev.com/ghpvc/?username=nirmit363&label=Profile%20views&color=ab8809&style=flat" alt="nirmit363" float="right"/>
+### Hola, I'm Nirmit Rath 👋<a href="https://github.com/nirmit363">Nirmit Rath</a><img align="right" src="https://komarev.com/ghpvc/?username=nirmit363&label=Profile%20views&color=ab8809&style=flat" alt="nirmit363" float="right"/>
  <img align="right" alt="GIF" src="https://github.com/nirmit363/nirmit363/blob/main/tenor.gif" width="450" height="275" />
 
 <!--
