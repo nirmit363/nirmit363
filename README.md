@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on my skill in Python
-- 🌱 I’m currently learning Data Science and Flutter
+- 🌱 I’m currently learning Data Science and Unity hub for game development
 - 👯 I’m looking for a internship
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything you want to...😁
@@ -35,7 +35,6 @@
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="C" width="36px" src="https://cdn.svgporn.com/logos/c.svg" />
-<img align="left" alt="Flutter" width="36px" src="https://cdn.svgporn.com/logos/flutter.svg" />
 <img align="left" alt="C++" width="36px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />
 <img align="left" alt="python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="36px" src="https://cdn.svgporn.com/logos/mysql.svg" />
