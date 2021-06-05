@@ -1,4 +1,4 @@
-### Hola, I'm <a href="https://github.com/nirmit363">Nirmit Rath </a><img align="right" src="https://komarev.com/ghpvc/?username=nirmit363&label=Profile%20views&color=ab8809&style=flat" alt="nirmit363" float="right"/>👋
+### Hola, I'm <a href="https://github.com/nirmit363">Nirmit Rath</a><img align="right" src="https://komarev.com/ghpvc/?username=nirmit363&label=Profile%20views&color=ab8809&style=flat" alt="nirmit363" float="right"/> 👋
  
  <img align="right" alt="GIF" src="https://github.com/nirmit363/nirmit363/blob/main/tenor.gif" width="450" height="275" />
  
@@ -75,7 +75,7 @@
 
 
 
-##  <a>Sad Day? Here's something i hope can bring a smile on your face  </a>😉
+##  <a>Sad Day? Here's something i hope can bring a smile on your face</a> 😉
 <br/>
 <img align="left" src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" float="right"/>
 
