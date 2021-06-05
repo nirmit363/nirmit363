@@ -36,4 +36,37 @@
 <img align="left" alt="php" width="36px" src="https://cdn.svgporn.com/logos/php.svg" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br/>
+<br/>
+<br/>
+
+
+
+<h3><details>
+  <summary>:zap: GitHub Stats</summary>
+  <br/>
+  <img align="center" alt="Nirmit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nirmit363&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
+ 
+ </details></h3>
+ 
+<h3><details>
+  <summary>:zap: Most Used Languages</summary>
+  <br/>
+  <img align="center" alt="Nirmit's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmit363&hide_border=true&theme=vision-friendly-dark" />
+
+</details></h3>
+ <h3><details>
+ <summary>:zap:Streak</summary>
+ <br/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmit363&hide_border=true&theme=vision-friendly-dark" alt="nirmit363" />
+
+  </details></h3>
+
+ 
+
+
+[linkedin]: https://www.linkedin.com/in/nirmit-rath-977a00193/
+
+
+
 
