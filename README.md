@@ -20,7 +20,7 @@
 [<img align="left" alt="Nirmit Rath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nirmit-rath-977a00193/)
 <a href="mailto:nirmit363@gmail.com"><img align="left" alt="Nirmit Rath | Mail Id" width="22px" src="https://github.com/nirmit363/nirmit363/blob/main/112-gmail_email_mail-512.png" /></a>
 <a href="https://twitter.com/NirmitRath"><img align="left" alt="Nirmit Rath | Twitter" width="22px" src="https://github.com/nirmit363/nirmit363/blob/main/Twitter5.png" /></a>
-<a href="https://www.facebook.com/nirmit.rath/"><img align="left" alt="Nirmit Rath | Mail Id" width="28px" src="https://github.com/nirmit363/nirmit363/blob/main/fb.png" /></a>
+<a href="https://www.facebook.com/nirmit.rath/"><img align="left" alt="Nirmit Rath | Mail Id" width="30px" src="https://github.com/nirmit363/nirmit363/blob/main/fb.png" /></a>
 <a href="https://www.instagram.com/nirmit_rath/"><img align="left" alt="Nirmit Rath | Mail Id" width="22px" src="https://github.com/nirmit363/nirmit363/blob/main/insta.png" /></a>
 
 
@@ -30,7 +30,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="46px" src="https://github.com/nirmit363/nirmit363/blob/main/vs.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/nirmit363/nirmit363/blob/main/vs.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="C" width="36px" src="https://cdn.svgporn.com/logos/c.svg" />
