@@ -18,7 +18,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="Nirmit Rath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nirmit-rath-977a00193/)
+[<img align="left" alt="Nirmit Rath | LinkedIn" width="22px" src="https://github.com/nirmit363/nirmit363/blob/main/ld.png" />](https://www.linkedin.com/in/nirmit-rath-977a00193/)
 <a href="mailto:nirmit363@gmail.com"><img align="left" alt="Nirmit Rath | Mail Id" width="22px" src="https://github.com/nirmit363/nirmit363/blob/main/112-gmail_email_mail-512.png" /></a>
 <a href="https://twitter.com/NirmitRath"><img align="left" alt="Nirmit Rath | Twitter" width="22px" src="https://github.com/nirmit363/nirmit363/blob/main/Twitter5.png" /></a>
 <a href="https://www.facebook.com/nirmit.rath/"><img align="left" alt="Nirmit Rath | Mail Id" width="30px" src="https://github.com/nirmit363/nirmit363/blob/main/fb.png" /></a>
