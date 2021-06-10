@@ -10,8 +10,7 @@
 
 - 🔭 I’m currently working on my skill in Python
 - 🌱 I’m currently learning Data Science and Unity hub for game development
-- 👯 I’m looking for a internship
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking for an internship
 - 💬 Ask me about anything you want to...😁
 - ⚡ Fun fact: The first oranges weren’t orange🍊
 
